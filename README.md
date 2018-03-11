@@ -16,6 +16,7 @@ This group help non-developer and thoes that has passion for web development but
 
 ## What are the tools/languages that are  needed to develop the Ehub Community?
 To answer this question , the Ehub developers team has decided to make two versions for the community and they are as follows:
+
 |Versions | Languages|
 |---------|---------|
 |**Static Webpage**| Html5,Css3,JavaScript,Bootstrap4 and jQuery|
