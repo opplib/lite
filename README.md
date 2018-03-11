@@ -16,10 +16,10 @@ This group help non-developer and thoes that has passion for web development but
 
 ## What are the tools/languages that are  needed to develop the Ehub Community?
 To answer this question , the Ehub developers team has decided to make two versions for the community and they are as follows:
-Versions | Languages
----------|---------
-**Static Webpage**| Html5,Css3,JavaScript,Bootstrap4 and jQuery
-**Responsive Site**| Mongodb, Reactjs v16, Expressjs and NodeJs (MERN Stack)
+|Versions | Languages|
+|---------|---------|
+|**Static Webpage**| Html5,Css3,JavaScript,Bootstrap4 and jQuery|
+|**Responsive Site**| Mongodb, Reactjs v16, Expressjs and NodeJs (MERN Stack)|
 
 To explain this in detail we are going to start from the following:
 - **Static Webpage :** This will be for **Temporary** use only until the final design and site is up and running.
@@ -27,11 +27,11 @@ To explain this in detail we are going to start from the following:
 
 ### How  can I contribute to the dovelopment of this community?
 - Firstly, you need to learn Git for beginners and Git for collaboration
-- Next you can visit the [Contributing ReadMe file](.../blob/master/CONTRIBUTING.md) and start your collaboration.
+- Next you can visit the [Contributing ReadMe file](https://github.com/opplib/Ehub/blob/master/CONTRIBUTING.md) and start your collaboration.
 **You're Now a Contributor, Happy Coding!!!!**
 
 #### Contact Us
 If you're finding it difficult to setup your working environment , please do contact us report@easytechlr.com or me cnah@easytechlr.com
 
 #### Meet Our Team
-Please do checkout the [Team Here](.../blob/master/TEAM.md)
+Please do checkout the [Team Here](https://github.com/opplib/Ehub/blob/master/TEAM.md)
